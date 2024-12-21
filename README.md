@@ -32,7 +32,6 @@
 ### 📂 Cloning the Repository
 ```bash
 git clone https://github.com/avinash-8-tech/Resume-Genie.git
-cd Resume-Genie
 ```
 
 ## 👀Preview
